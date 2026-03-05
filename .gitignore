@@ -30,3 +30,4 @@ allure-report/
 .idea/
 .idea
 .DS_Store
+*.iml
