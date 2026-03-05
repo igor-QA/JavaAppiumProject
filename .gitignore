@@ -31,3 +31,14 @@ allure-report/
 .idea
 .DS_Store
 *.iml
+out/
+
+# Allure
+.allure/
+
+# Test reports
+build/
+build/reports/
+
+
+
